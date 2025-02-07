@@ -1,0 +1,15 @@
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x86\BackupScheduler.exe
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x86\BackupScheduler.deps.json
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x86\BackupScheduler.runtimeconfig.json
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x86\BackupScheduler.dll
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x86\BackupScheduler.pdb
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.AssemblyInfoInputs.cache
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.AssemblyInfo.cs
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.csproj.CoreCompileInputs.cache
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.sourcelink.json
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.dll
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\refint\BackupScheduler.dll
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.pdb
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\BackupScheduler.genruntimeconfig.cache
+C:\Users\vgc43\backup-scheduler\BackupScheduler\obj\Release\net9.0\win-x86\ref\BackupScheduler.dll

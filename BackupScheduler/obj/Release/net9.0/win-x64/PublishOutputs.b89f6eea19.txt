@@ -1,0 +1,2 @@
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x64\publish\BackupScheduler.pdb
+C:\Users\vgc43\backup-scheduler\BackupScheduler\bin\Release\net9.0\win-x64\publish\BackupScheduler.exe
