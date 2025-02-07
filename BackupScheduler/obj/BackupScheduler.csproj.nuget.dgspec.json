@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vgc43\\RiderProjects\\BackupScheduler\\BackupScheduler\\BackupScheduler.csproj": {}
+    "C:\\Users\\vgc43\\backup-scheduler\\BackupScheduler\\BackupScheduler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vgc43\\RiderProjects\\BackupScheduler\\BackupScheduler\\BackupScheduler.csproj": {
+    "C:\\Users\\vgc43\\backup-scheduler\\BackupScheduler\\BackupScheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vgc43\\RiderProjects\\BackupScheduler\\BackupScheduler\\BackupScheduler.csproj",
+        "projectUniqueName": "C:\\Users\\vgc43\\backup-scheduler\\BackupScheduler\\BackupScheduler.csproj",
         "projectName": "BackupScheduler",
-        "projectPath": "C:\\Users\\vgc43\\RiderProjects\\BackupScheduler\\BackupScheduler\\BackupScheduler.csproj",
+        "projectPath": "C:\\Users\\vgc43\\backup-scheduler\\BackupScheduler\\BackupScheduler.csproj",
         "packagesPath": "C:\\Users\\vgc43\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vgc43\\RiderProjects\\BackupScheduler\\BackupScheduler\\obj\\",
+        "outputPath": "C:\\Users\\vgc43\\backup-scheduler\\BackupScheduler\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\vgc43\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\vgc43\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -41,35 +41,29 @@ public class FolderScheduler(Dictionary<string, string> save, double intervalInM
 
     private async Task BackUpDirectoryAsync()
     {
-    
-        
+        var tasks = new List<Task>();
+
         foreach (var item in SaveAndOutputDirectories)
         {
-          
-                
-            try
-            {
-                string startPath = item.Key;
-                string zipPath = Path.Combine( item.Value , Path.GetFileName(Path.GetDirectoryName(item.Key)) + "_" + FormattedDateTimeNow+ ".zip");
-            
+            string startPath = item.Key;
+            string zipPath = Path.Combine(item.Value, Path.GetFileName(Path.GetDirectoryName(item.Key)) + "_" + FormattedDateTimeNow + ".zip");
 
-                
-                await Task.Run(() =>
+            tasks.Add(Task.Run(() =>
+            {
+                try
                 {
                     ZipFile.CreateFromDirectory(startPath, zipPath);
-                });
-                
-                Console.WriteLine($"Directory {startPath} backed up to {zipPath}");
-
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-                throw;
-            }
-            
+                    Console.WriteLine($"Directory {startPath} backed up to {zipPath}");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                    throw;
+                }
+            }));
         }
-        
+
+        await Task.WhenAll(tasks); 
     }
 
    
