@@ -1,0 +1,14 @@
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\bin\Release\net9.0\BackupScheduler.exe
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\bin\Release\net9.0\BackupScheduler.deps.json
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\bin\Release\net9.0\BackupScheduler.runtimeconfig.json
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\bin\Release\net9.0\BackupScheduler.dll
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\bin\Release\net9.0\BackupScheduler.pdb
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.AssemblyInfoInputs.cache
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.AssemblyInfo.cs
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.csproj.CoreCompileInputs.cache
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.dll
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\refint\BackupScheduler.dll
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.pdb
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\BackupScheduler.genruntimeconfig.cache
+C:\Users\vgc43\RiderProjects\BackupScheduler\BackupScheduler\obj\Release\net9.0\ref\BackupScheduler.dll
